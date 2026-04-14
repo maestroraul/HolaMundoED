@@ -5,6 +5,7 @@ public class HolaMundo {
 		
          System.out.println("Hola Mundo-cambio Consola3");
          System.out.println("Hola Mundo-cambio Eclipse3");
+        System.out.println("Hola Mundo-cambio Eclipse 4");
 	}
 
 }
